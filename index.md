@@ -9,7 +9,7 @@
 
 ---
 [Visualization for Daily new Covid19 cases across US](https://siqihuang18.github.io/visualization_covid/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/covid.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
