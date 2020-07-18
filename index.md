@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](https://siqihuang18.github.io/visualizaiton/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project1.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
