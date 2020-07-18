@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Visualization for security analysis of trajectory project](https://siqihuang18.github.io/visualizaiton/)
+[Visualization for security analysis of trajectory project](https://siqihuang18.github.io/visualizaiton_trajectory/)
 <img src="images/project1.png"/>
 
 ---
-[Visualization for Daily new Covid19 cases across US](/pdf/sample_presentation.pdf)
+[Visualization for Daily new Covid19 cases across US](https://siqihuang18.github.io/visualization_covid/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
