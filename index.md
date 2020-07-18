@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/https://siqihuang18.github.io/visualizaiton/)
+[Project 1 Title](https://siqihuang18.github.io/visualizaiton/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
