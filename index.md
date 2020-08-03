@@ -13,7 +13,7 @@
 
 ---
 [Django Based Photosharing Website](https://powerful-chamber-91104.herokuapp.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Insta.png>
 
 ---
 
